@@ -2,8 +2,8 @@
 Image inpainting using sparse representations (Orthogonal Matching Pursuit (OMP) and Iteratively Reweighted Least Squares Method (IRLS)). This was done as a part of the course work for EE698K at IIT Kanpur. 
 
 # Results
-![PatchFillingResults](http://url/to/img.png)  
-![OMPandIRLS results](http://url/to/img.png)  
+![PatchFillingResults](https://github.com/TheGalileo/Image-Inpainting-Sparse-Representation/blob/master/images/ResultsOMPIRLS.jpg)  
+![OMPandIRLS results](https://github.com/TheGalileo/Image-Inpainting-Sparse-Representation/blob/master/images/ResultsPatchFilling.jpg)  
 For more details, please refer to `Report.pdf`
 
 # Steps
